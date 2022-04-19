@@ -31,6 +31,7 @@ scale_ubuntu_distribution:
 scale_rhel_distribution:
   - RedHat
   - CentOS
+  - Rocky
 
 ## Supported scale os distrubution
 scale_sles_distribution:
